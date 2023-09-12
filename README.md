@@ -14,7 +14,7 @@ products:
 - azure-storage-accounts
 - azure-monitor
 - azure-log-analytics
-- azure-application-insights
+- azure-monitor
 
 name:  Deploy an Azure Red Hat OpenShift cluster with Terraform and AzAPI Provider
 description: This sample shows how to deploy an Azure Red Hat OpenShift cluster with Terraform and AzAPI Provider.
